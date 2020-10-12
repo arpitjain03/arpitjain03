@@ -1,12 +1,7 @@
-<div align="center">
-  <br>
-  
-  # Hi there! 👋
+<center><h1> Hi there! 👋</h1</p></center>
 
-  #### Find me:
-
-
-<p align="left">
+###   <center>Catch me on:<center>
+<p align="center">
 <a href="https://www.linkedin.com/in/arpitjain3/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/arpit_cor">
@@ -17,4 +12,5 @@
 <img src="https://img.shields.io/badge/-Medium-%20black" alt="Medium" /></a> 
 <a href="mailto:arpit.cor@gmail.com">
 <img src="https://img.shields.io/badge/-Email-red" alt="Email" /></a> 
+
 </p>
